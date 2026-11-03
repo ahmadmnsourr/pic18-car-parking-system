@@ -1,0 +1,25 @@
+# MPLAB X / NetBeans local settings
+**/nbproject/private/
+**/.cache/
+**/build/
+**/dist/
+
+# Proteus temporary and backup files
+*.pdsbak
+*.workspace
+*.bak
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor temporary files
+*~
+*.swp
+*.swo
+
+# Keep source code, simulation and firmware
+# *.c, *.h, *.pdsprj and *.hex are intentionally tracked
